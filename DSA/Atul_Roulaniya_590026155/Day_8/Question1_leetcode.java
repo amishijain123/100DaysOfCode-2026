@@ -1,4 +1,4 @@
-class Solution {
+Qclass Solution {
     public boolean isPalindrome(String s) 
     {
         int left=0;
